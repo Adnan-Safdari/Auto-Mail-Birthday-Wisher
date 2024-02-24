@@ -2,7 +2,7 @@
 
 # Automated Mail Birthday Wisher
 
-This project uses [Python](https://www.python.org/about/) and [SMTP](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol) to send a Happy Birthday emails to your friends and family on their birthday. 
+This project uses [Python](https://www.python.org/about/) and [SMTP](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol) to send a Happy Birthday email to your friends and family on their birthday. 
 
 
 
